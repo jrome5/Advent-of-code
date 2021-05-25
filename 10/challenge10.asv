@@ -1,0 +1,12 @@
+A = importdata ('input.txt', ' ', 1);
+data = sort(A.data);
+adepter_joltage = data(end) + 3;
+current_joltage = 0;
+jolt_1s = 0;
+jolt_3s = 0;
+for n = 1 : length(data)
+  if((n - current_joltage) == 1)
+    jolt_1s = jolt_1s + 1;
+    current_joltage -
+  end
+end
