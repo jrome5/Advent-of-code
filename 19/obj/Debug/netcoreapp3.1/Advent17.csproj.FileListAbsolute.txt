@@ -1,0 +1,13 @@
+C:\Users\jackr\source\repos\Advent14\Advent14\bin\Debug\netcoreapp3.1\Advent17.exe
+C:\Users\jackr\source\repos\Advent14\Advent14\bin\Debug\netcoreapp3.1\Advent17.deps.json
+C:\Users\jackr\source\repos\Advent14\Advent14\bin\Debug\netcoreapp3.1\Advent17.runtimeconfig.json
+C:\Users\jackr\source\repos\Advent14\Advent14\bin\Debug\netcoreapp3.1\Advent17.runtimeconfig.dev.json
+C:\Users\jackr\source\repos\Advent14\Advent14\bin\Debug\netcoreapp3.1\Advent17.dll
+C:\Users\jackr\source\repos\Advent14\Advent14\bin\Debug\netcoreapp3.1\Advent17.pdb
+C:\Users\jackr\source\repos\Advent14\Advent14\obj\Debug\netcoreapp3.1\Advent17.csprojAssemblyReference.cache
+C:\Users\jackr\source\repos\Advent14\Advent14\obj\Debug\netcoreapp3.1\Advent17.AssemblyInfoInputs.cache
+C:\Users\jackr\source\repos\Advent14\Advent14\obj\Debug\netcoreapp3.1\Advent17.AssemblyInfo.cs
+C:\Users\jackr\source\repos\Advent14\Advent14\obj\Debug\netcoreapp3.1\Advent17.csproj.CoreCompileInputs.cache
+C:\Users\jackr\source\repos\Advent14\Advent14\obj\Debug\netcoreapp3.1\Advent17.dll
+C:\Users\jackr\source\repos\Advent14\Advent14\obj\Debug\netcoreapp3.1\Advent17.pdb
+C:\Users\jackr\source\repos\Advent14\Advent14\obj\Debug\netcoreapp3.1\Advent17.genruntimeconfig.cache
